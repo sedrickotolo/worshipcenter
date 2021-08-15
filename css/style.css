@@ -484,7 +484,9 @@ pre {
   padding-left: 15px;
   margin-right: auto;
   margin-left: auto; }
-
+.icon_s{
+  padding-right: 15px;
+}
 .cont{
   display: grid;
   place-content: center;
