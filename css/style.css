@@ -485,6 +485,10 @@ pre {
   margin-right: auto;
   margin-left: auto; }
 
+.cont{
+  display: grid;
+  place-content: center;
+}
 .row {
   display: -webkit-box;
   display: -ms-flexbox;
